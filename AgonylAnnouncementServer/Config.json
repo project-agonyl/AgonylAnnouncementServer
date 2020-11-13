@@ -1,0 +1,7 @@
+﻿{
+    "ServerName": "A3",
+    "MainServerIp": "127.0.0.1",
+    "MainServerPort": 7789,
+    "AnnouncementInterval": 30,
+    "AnnouncementType":  "245"
+}
